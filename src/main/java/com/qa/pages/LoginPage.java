@@ -12,6 +12,7 @@ public class LoginPage
 	public void Loginset()
 	{
 		System.out.println("loginpageset");
+		System.out.println("arjun singh");
 	}
 }
 

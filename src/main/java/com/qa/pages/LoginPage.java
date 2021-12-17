@@ -8,6 +8,11 @@ public class LoginPage
 	{
 		System.out.println("loginpage");
 	}
+	
+	public void Loginset()
+	{
+		System.out.println("loginpageset");
+	}
 }
 
 
